@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContentProviderExample</string>
+    <string name="tv1">Employee ID</string>
+    <string name="employee_id">Employee ID</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="employee_number">Employee Number</string>
+    <string name="add_to_database">Add To Database</string>
+    <string name="employee_list">Employees List</string>
+    <string name="emp_id">Emp ID</string>
+    <string name="emp_name">Emp Name</string>
+    <string name="emp_number">Emp Number</string>
+</resources>
